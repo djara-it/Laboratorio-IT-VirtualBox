@@ -56,7 +56,7 @@ Documentación completa disponible en `/documentacion/`.
 
 \## Certificación en curso
 
-Google IT Support Professional Certificate — Curso 4/5
+Google IT Support Professional Certificate - https://coursera.org/share/d48caabb655222ede25088ed15806c92 
 
 
 
